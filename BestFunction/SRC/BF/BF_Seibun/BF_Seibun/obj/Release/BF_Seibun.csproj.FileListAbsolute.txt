@@ -1,0 +1,11 @@
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\SRC\BF\BF_Seibun\BF_Seibun\bin\Release\BF_Seibun.exe.config
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\EXE\BF_Seibun.exe.config
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\EXE\BF_Seibun.exe
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\EXE\BF_Seibun.pdb
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\SRC\BF\BF_Seibun\BF_Seibun\obj\Release\BF_Seibun.csprojResolveAssemblyReference.cache
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\SRC\BF\BF_Seibun\BF_Seibun\obj\Release\B2.BestFunction.Properties.Resources.resources
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\SRC\BF\BF_Seibun\BF_Seibun\obj\Release\BF_Seibun.csproj.GenerateResource.Cache
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\SRC\BF\BF_Seibun\BF_Seibun\obj\Release\BF_Seibun.exe
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\SRC\BF\BF_Seibun\BF_Seibun\obj\Release\BF_Seibun.pdb
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\SRC\BF\BF_Seibun\BF_Seibun\obj\Release\BF_Seibun.exe.licenses
+Y:\開発\在庫\BF改修案件(PDS_ZEROコラボ）\第4章－プログラム作成\BestFunction\SRC\BF\BF_Seibun\BF_Seibun\obj\Release\B2.BestFunction.frmMain.resources

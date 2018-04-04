@@ -1,0 +1,2 @@
+D:\BestFunction__\SRC\bf\BestFunction_Main\BestFunction_Main\bin\Debug\BestFunction_Main.exe.config
+D:\BestFunction__\EXE\BestFunction_Main.exe.config
